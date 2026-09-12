@@ -30,8 +30,8 @@ The repository includes a large `Data/` directory. To inspect the code without d
 For a local checkout:
 
 ```bash
-git clone https://github.com/gxorge13/APS360_Project.git
-cd APS360_Project
+git clone https://github.com/gxorge13/medical-image-classification.git
+cd medical-image-classification
 python -m venv .venv
 source .venv/bin/activate
 python -m pip install -r requirements.txt
